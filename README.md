@@ -1,7 +1,7 @@
 # IEB (Izabod Email Bomber/Spammer)
 An email spam bot written in Python, to send emails to specified addresses. Use with caution.
 
-Simply make sure you have Python 2+ installed, with smtp support. Edit the password.txt file, recipients, and your email username to start zipping out those emails!
+Simply make sure you have Python 2+ installed, with smtp support. Edit the email.txt file, and your email username to start zipping out those emails!
 
 CAUTION: Use at your own risk. No one is responsible but you for misuse of this code to tick people off. Cheers!
 
